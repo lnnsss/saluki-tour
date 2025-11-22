@@ -147,6 +147,9 @@ button {
 .cities__item__btn--1 {
     width: 50px;
 }
+.cities__item__btn--1 img {
+    width: 100%;
+}
 
 /*----footer-------------------------------------------*/
 
@@ -476,7 +479,7 @@ button {
         padding: 20px 0;
     }
     .footer__container {
-        gap: 30px;
+        gap: 10px;
     }
     .footer__container p {
         font-size: 10px;
